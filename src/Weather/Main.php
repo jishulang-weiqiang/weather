@@ -1,5 +1,5 @@
 <?php
-namespace weather;
+namespace Weiqiang\Weather;
 
 
 class Weather
